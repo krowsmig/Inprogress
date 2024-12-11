@@ -21,7 +21,7 @@ header .cover { transition: 0.5s; position: relative; display: inline-block;over
 header .cover h1 { position: absolute; left: 20px; top: 0;}
 header .cover h1 a { font-size:16px; }
 header .cover .lang { position: absolute; right: 20px; top: 0; }
-header nav a { padding: 0 20px; }
+header nav a { padding: 0 20px; display: none }
 .slide header .cover { background: rgba(255,255,255,0.05);  backdrop-filter: blur(10px)  }
 
 /* common height */
